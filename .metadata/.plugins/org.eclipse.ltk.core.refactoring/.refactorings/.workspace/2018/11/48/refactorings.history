@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ey_mms_ui-acceptance-test&apos;" deleteContents="false" description="Delete resource &apos;ey_mms_ui-acceptance-test&apos;" element1="/ey_mms_ui-acceptance-test" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1543211234528"/>&#x0A;<refactoring comment="Delete resource &apos;MMS-Acceptance-Test2&apos;" deleteContents="false" description="Delete resource &apos;MMS-Acceptance-Test2&apos;" element1="/MMS-Acceptance-Test2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1543211241463"/>
+</session>

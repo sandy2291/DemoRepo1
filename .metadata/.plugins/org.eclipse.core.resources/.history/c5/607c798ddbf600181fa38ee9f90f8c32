@@ -1,0 +1,21 @@
+#appurl=http://192.168.110.208/
+#appurl=http://bng1212467490b/mms
+#appurl=http://bng1502272981c:63131
+appurl=http://localhost/MMSWebsite/
+browserType=Firefox
+# Either Firefox or Chrome or IE
+postgrespath=C:\\Program Files\\PostgreSQL\\9.4\\bin\\
+hostName=localhost
+dbName=ey_kcs_customer
+dbNameMgmt=testdata_mgmt
+port=5432
+dbversion=439
+userName=postgres
+pgrestore=pg_restore.exe
+pgdump=pg_dump.exe
+dropdb=dropdb.exe
+createdb=createdb.exe
+logger=logger.properties
+dbbackup=dbbackup.properties
+configpath=\\src\\test\\resources\\ConfigFiles\\
+companyname="Kansas City Southern Railway"
